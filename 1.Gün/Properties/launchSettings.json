@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "1.Gün": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
